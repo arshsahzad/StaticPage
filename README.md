@@ -17,7 +17,9 @@
 * JavaScript
 * Google fonts
 * Freepik Images
+* Editor ~ VS Code
 * Fontawesome Icons
+* Cert ~ Cloudflare SSL
 * Custom Domain ~ [QuizBuzz](https://arsh.link/quizbuzz)
 * Hosted Platfrom ~ Github Pages
 ## Screenshot:
