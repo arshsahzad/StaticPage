@@ -1,6 +1,6 @@
-# QuizWebApp
+# QuizBuzz
 
-<h2 align='center'>Project URL ~ <a href="https://arsh.link/quizwebapp">QuizWebApp</a></h2>
+<h2 align='center'>Project URL ~ <a href="https://arsh.link/quizbuzz">QuizWebApp</a></h2>
 
 ## Features:
 * 30 Seconds Timer
@@ -18,11 +18,11 @@
 * Google fonts
 * Freepik Images
 * Fontawesome Icons
-* Custom Domain ~ [QuizWebApp](https://arsh.link/quizwebapp)
+* Custom Domain ~ [QuizBuzz](https://arsh.link/quizbuzz)
 * Hosted Platfrom ~ Github Pages
 ## Screenshot:
 <p align="center">
-  <br><img src="https://github.com/arshsahzad/QuizWebApp/blob/main/src/img/QuizWebApp.gif" width="450px">
+  <br><img src="https://github.com/arshsahzad/QuizBuzz/blob/main/src/img/QuizBuzz.gif" width="650px">
 </p>
 
 ## MIT License
