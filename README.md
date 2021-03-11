@@ -22,7 +22,7 @@
 * Hosted Platfrom ~ Github Pages
 ## Screenshot:
 <p align="center">
-  <br><img src="https://github.com/arshsahzad/QuizBuzz/blob/main/src/img/QuizBuzz.gif" width="650px">
+  <br><img src="https://github.com/arshsahzad/QuizBuzz/blob/main/src/img/QuizBuzz.gif" width="600px">
 </p>
 
 ## MIT License
