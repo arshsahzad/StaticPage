@@ -1,6 +1,6 @@
 # QuizBuzz
 
-<h2 align='center'>Project URL ~ <a href="https://arsh.link/quizbuzz">QuizBuzz</a></h2>
+<h2 align='center'>Project URL ~ <a href="https://www.arsh.dev/quizbuzz/">QuizBuzz</a></h2>
 
 ## Features:
 * 30 Seconds Timer
