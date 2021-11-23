@@ -1,4 +1,4 @@
-# Portfolio
+# Staticfolio
 
 - [v1-Onefolio](/v1-Onefolio) ~ [Source Link](https://arsh.dev/link/onefolio/)
 
