@@ -1,4 +1,4 @@
-# Staticfolio
+# StaticSites
 
 - [v1-Onefolio](/v1-Onefolio) ~ [Source Link](https://www.arsh.dev/link/onefolio/)
 
