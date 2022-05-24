@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Docker-WebApp-via-JavaScript
 
@@ -49,3 +50,6 @@
 
 Copyright (c) 2021 Arsh Sahzad
 >>>>>>> buzz/master
+=======
+# UpComing
+>>>>>>> up/master
