@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Docker-WebApp-via-JavaScript
 
@@ -10,3 +11,6 @@
 
 - [v2-Darkfolio](/v2-Darkfolio) ~ [Source Link](https://www.arsh.dev/link/darkfolio/)
   > > > > > > > pages/master
+=======
+# PhotoSlide
+>>>>>>> silde/master
